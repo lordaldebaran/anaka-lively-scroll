@@ -22,7 +22,7 @@
            <div className="section-divider mb-8" />
            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
              Parce que la fraternité, c'est aussi respecter les convictions de l'autre, 
-             ce repas sera organisé avec soin.
+             ce repas sera organisé avec soin :
            </p>
          </motion.div>
  
