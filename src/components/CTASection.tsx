@@ -30,7 +30,7 @@
            className="max-w-3xl mx-auto text-center"
          >
            <h2 className="text-4xl md:text-5xl font-bold mb-6">
-             Construisons des <span className="text-gradient">ponts</span>
+             Créons du <span className="text-gradient">lien</span>
            </h2>
            <div className="section-divider mb-8" />
            
