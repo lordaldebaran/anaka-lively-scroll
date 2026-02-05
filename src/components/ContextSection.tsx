@@ -47,11 +47,11 @@
              className="glass-card rounded-2xl p-8 md:p-12"
            >
              <p className="text-2xl md:text-3xl font-serif text-foreground mb-4">
-               "En <span className="text-secondary font-bold">2039</span>, l'Aïd et Noël 
+               "En attendant <span className="text-secondary font-bold">2039</span>, l'Aïd et Noël 
                tomberont en même temps..."
              </p>
              <p className="text-xl text-muted-foreground">
-               Pourquoi attendre ? <strong className="text-primary">La fraternité, c'est maintenant.</strong>
+               Mais pourquoi attendre ? <strong className="text-primary">La fraternité, c'est maintenant.</strong>
              </p>
            </motion.div>
          </motion.div>
