@@ -47,7 +47,7 @@
              className="glass-card rounded-2xl p-8 md:p-12"
            >
              <p className="text-2xl md:text-3xl font-serif text-foreground mb-4">
-               "En attendant <span className="text-secondary font-bold">2039</span>, l'Aïd et Noël 
+               "En attendant <span className="text-secondary font-bold">2039</span>, où l'Aïd et Noël 
                tomberont en même temps..."
              </p>
              <p className="text-xl text-muted-foreground">
