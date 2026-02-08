@@ -13,8 +13,8 @@
    {
      icon: MapPin,
      title: "Où ?",
-     value: "Salle des Champs Roger",
-     subtitle: "Chatou",
+     value: "Relais Saint louis",
+     subtitle: "30 bis rue Auguste Renoir, 78400 Chatou",
    },
    {
      icon: Users,
