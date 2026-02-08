@@ -46,7 +46,7 @@
              className="flex flex-col sm:flex-row gap-4 justify-center"
            >
              <a
-               href="mailto:fraternite.chatou@email.com"
+               href="https://forms.gle/xXAoy8baaq1xMYeK6"
                className="inline-flex items-center justify-center px-10 py-5 text-lg font-semibold rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all shadow-lg hover:shadow-xl hover:-translate-y-1"
              >
                Je participe ✨
