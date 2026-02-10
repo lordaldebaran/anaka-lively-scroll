@@ -8,7 +8,7 @@
      icon: Calendar,
      title: "Quand ?",
      value: "Vendredi 20 février 2026",
-     subtitle: "Au coucher du soleil, 19h",
+     subtitle: "Au coucher du soleil, 18h20",
    },
    {
      icon: MapPin,
