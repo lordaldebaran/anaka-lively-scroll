@@ -59,7 +59,7 @@
              </h3>
              <p className="text-muted-foreground leading-relaxed">
                L'heure du repas sera précisément calée sur la <strong className="text-foreground">rupture du jeûne</strong> pour 
-               que nos frères et sœurs musulmans puissent s'attabler avec nous dès le coucher du soleil.
+               que nos frères et sœurs musulmans puissent s'attabler avec nous dès le coucher du soleil, et le repas sera sans boisson alcolisée.
              </p>
            </motion.div>
          </div>
